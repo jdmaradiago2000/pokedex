@@ -1,0 +1,62 @@
+.title{
+    color: red;
+    margin: 40px 0px;
+    font-size: 50px;
+    font-weight:bold;
+}
+
+.user-name{
+    margin: 0px 0px 40px 0px;
+    font-size: 50px;
+}
+
+.type{
+    height: 30px;
+    margin: 40px;
+}
+
+.type-option{
+    width: 200px;
+    height: 30px;
+    font-size: 16px;
+    border-color:crimson;
+}
+
+.input-container{
+    margin: 40px 0px;
+}
+
+.page{
+    margin: 5px;
+    padding: 2px;
+    font-size: 15px;
+}
+
+.numbers{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(255, 14, 74);
+}
+
+.pages-number{
+    margin: 20px 5px 60px 5px;
+}
+
+.number-pages{
+    font-size: 15px;
+    margin: 2px;
+    padding: 3px;
+}
+
+.test-container{
+    padding: 2.5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 350px);
+    grid-gap: 3rem;
+    justify-content: center;
+}
+
+
+
+
+

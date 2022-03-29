@@ -1,0 +1,12 @@
+.full{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.pokemon-info{
+    width: 100%;
+}
+
+

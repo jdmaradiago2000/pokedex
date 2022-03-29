@@ -1,0 +1,32 @@
+.pokemon-card{
+    padding: 10px;
+    background-color: red;
+    margin: 30px auto;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+    min-width: 350px;
+    max-width: 350px;
+    background-color:rgba(255, 255, 255, 0.52);
+}
+
+.u-list{
+    list-style: none;
+}
+
+.list{
+    margin-bottom: 10px;
+}
+
+.pokemon-name{
+    margin: 15px 0px;
+}
+
+.image{
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+.properties{
+    margin: 5px 0px;
+}
+
